@@ -17,3 +17,4 @@ WELCOMING_MSG = "Welcome to angle_to_type.py! This program will determine the ty
 ERR_MSG = "Angle 1: {0}, or angle 2: {1}, are not valid Inputs.\n (MUST BE ANGLES [POSITIVE NUMBERS])!"
 
 IMPOSSIBLE_MSG = "Angle 1: {0}, or angle 2: {1}, are not valid Inputs.\n (NOT POSSIBLE FOR A PROPER TRIANGLE!)"
+REMAININNG_ANGLE = "The 3rd angle of the triangle must be: {:.2f} Derees."
